@@ -13,4 +13,4 @@ steps:
 
 options:
   logging: GCS
-  logStreamingOption: ENABLE
+
